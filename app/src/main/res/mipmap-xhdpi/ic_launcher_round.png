@@ -1,0 +1,36 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Sergioo\Desktop\android-kotlin-fundamentals-starter-apps-master\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml:18:1-38:12
+INJECTED from C:\Users\Sergioo\Desktop\android-kotlin-fundamentals-starter-apps-master\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml:18:1-38:12
+INJECTED from C:\Users\Sergioo\Desktop\android-kotlin-fundamentals-starter-apps-master\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml:18:1-38:12
+INJECTED from C:\Users\Sergioo\Desktop\android-kotlin-fundamentals-starter-apps-master\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml:18:1-38:12
+MERGED from [androidx.databinding:databinding-adapters:3.3.1] C:\Users\Sergioo\.gradle\caches\transforms-1\files-1.1\databinding-adapters-3.3.1.aar\91d74d8ff1ba665441600952a54ed9c0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.3.1] C:\Users\Sergioo\.gradle\caches\transforms-1\files-1.1\databinding-runtime-3.3.1.aar\5dd64511d518954dbf5e391f1e21a29b\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-rc02] C:\Users\Sergioo\.gradle\caches\transforms-1\files-1.1\jetified-navigation-fragment-ktx-1.0.0-rc02.aar\1a300ed62df8105604c51a52260bd940\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-rc02] C:\Users\Sergioo\.gradle\caches\transforms-1\files-1.1\jetified-navigation-ui-ktx-1.0.0-rc02.aar\44bbd795fea7eab3c93e657515d769df\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-rc02] C:\Users\Sergioo\.gradle\caches\transforms-1\files-1.1\jetified-navigation-runtime-ktx-1.0.0-rc02.aar\54f8bdbe5b97e6efa4a95222212823b3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-rc02] C:\Users\Sergioo\.gradle\caches\transforms-1\files-1.1\jetified-navigation-common-ktx-1.0.0-rc02.aar\6a32b213964df687080e1f1da1638984\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha1] C:\Users\Sergioo\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha1.aar\e85e559c8e69bb46f4a2dd6edea0392c\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-rc02] C:\Users\Sergioo\.gradle\caches\transforms-1\files-1.1\jetified-navigation-ui-1.0.0-rc02.aar\b007f3362e037ce40ff4fb4286d5d70a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Sergioo\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\a3e479c69540762e63d2d040ec68da00\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Sergioo\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\8989d66e4d29d1a1e5564b4f7614d453\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-beta01] C:\Users\Sergioo\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0-beta01.aar\ccdadb31c384ebd6b488d534ce9392da\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0-beta01] C:\Users\Sergioo\.gradle\caches\transforms-1\files-1.1\media-1.0.0-beta01.aar\71016a0070f545e452f1a74796a49e77\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-rc02] C:\Users\Sergioo\.gradle\caches\transforms-1\files-1.1\jetified-navigation-fragment-1.0.0-rc02.aar\1aecb86a0d94367e6c714d51423fe8c8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Sergioo\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\622354fcca0079aeca9efd99223ebce9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Sergioo\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\22ddadd73e2b29bd2126b210195f421a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Sergioo\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\fef852f096498ac46e8fb08bb04fe7c7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Sergioo\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\e38023996dc35bcf4667976b847a5260\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-rc02] C:\Users\Sergioo\.gradle\caches\transforms-1\files-1.1\jetified-navigation-runtime-1.0.0-rc02.aar\dba1e164dc9dee82fcc8dcdc0f9f0cec\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Sergioo\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\236fe0c0b0f8c655039bd94de497a2aa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Sergioo\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\98266f3b7ce397d90984c4e44dc34a32\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Sergioo\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\e9fde5965ca31574442bc3e5170cecac\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Sergioo\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\a4e85c0f8435602c3c2d17d6137a1e5e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Sergioo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\35ad8c062a7ab639a2046c3c511abd3d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Sergioo\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\8e6ae9f43de3ca486bc4c33a43902f3f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Sergioo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\577b3e9503f1ff613aceed99666b8300\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Sergioo\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\775b52cf892bf78a016ef15b3a2b922f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Sergioo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\989c86d7aed560e379b642c17d50f495\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Sergioo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\5dc33217bd863feed356424c7971cc03\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Sergioo\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\93b8743ab8ed6784b45822df039793a9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common:1.0.0-rc02] C:\Users\Sergioo\.gradle\caches\transforms-1\files-1.1\jetified-navigation-common-1.
